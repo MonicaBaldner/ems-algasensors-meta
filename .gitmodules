@@ -1,0 +1,9 @@
+[submodule "microservices/ems-device-management"]
+	path = microservices/ems-device-management
+	url = https://github.com/MonicaBaldner/ems-device-management.git
+[submodule "microservices/ems-temperature-processing"]
+	path = microservices/ems-temperature-processing
+	url = https://github.com/MonicaBaldner/ems-temperature-processing.git
+[submodule "microservices/ems-temperature-monitoring"]
+	path = microservices/ems-temperature-monitoring
+	url = https://github.com/MonicaBaldner/ems-temperature-monitoring.git
